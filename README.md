@@ -1,6 +1,6 @@
 **Test Case Prioritization Tool for Model Transformations**
 
-This is a Gradle Java project containing the program that applies the test case prioritization approach described in the paper &quot;Test Case Prioritization for Model Transformations&quot; by the authors Dr. Saqib Iqbal and Dr. Issam Al-Azzoni.
+This is a Gradle Java project containing the program that applies the test case prioritization approach described in the paper &quot;Test Case Prioritization for Model Transformations&quot;.
 
 The Java file which can be executed is _TestCasePrioritizer_ in the package _tcp\_tool_.
 
